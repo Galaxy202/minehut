@@ -1,4 +1,4 @@
-package ml.galaxynetwork;
+package com.galaxydevnetwork;
 
 import org.json.JSONArray;
 import org.json.JSONObject;
